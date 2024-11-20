@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image not found">
+![logo]()
 <h1 align="center">Hi 👋, I'm Basit Irshad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
