@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Basit Irshad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image not found">
+<img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="image not found">
 
 - 🔭 Graduated in **Computer Science**
 
